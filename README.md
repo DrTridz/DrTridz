@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DrTridz
 - 👀 I’m interested in php
-- 🌱 I’m currently learning
 
 
 <!---
